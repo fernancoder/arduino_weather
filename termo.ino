@@ -9,7 +9,7 @@ const int   mqtt_port = 1883;
 const char *root_topic_publish = "weatherSensor";
 
 const char *ssid = "MOVISTAR_7C0C";
-const char *password = "BA5ADDCF992130431CFC";
+const char *password = "KAKITA";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
